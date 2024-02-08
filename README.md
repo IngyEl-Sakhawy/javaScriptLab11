@@ -1,7 +1,9 @@
 #To-Do List and User Data Display
+
 ##This repository contains two HTML files:
 
 ##To-Do List
+
 Description
 The todo.html file allows users to manage a to-do list. Tasks can be added, marked as done, and removed. The list is stored in the browser's local storage for persistence.
 
@@ -12,6 +14,7 @@ Mark tasks as done by clicking the checkmark button ("✔").
 Remove tasks by clicking the cross button ("✘").
 
 ##User Data Display
+
 Description
 The userData.html file fetches user data from the ReqRes API and displays it on the webpage.
 
